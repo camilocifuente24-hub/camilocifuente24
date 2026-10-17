@@ -1,6 +1,4 @@
-# camilocifuente24
-soy estudiante de la universisdad aunar cali y me dejaron esta tarea como parte de un trabajo y mi objetivo es aprender
-<h1 align="center">¡Hola! 👋 Soy camilo cifuente</h1>
+
 
 <p align="center">
   <em>Desarrollador/aprener a crear un perfil · cali, colombia🌎</em>
