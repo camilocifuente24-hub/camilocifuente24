@@ -5,7 +5,68 @@ soy estudiante de la universisdad aunar cali y me dejaron esta tarea como parte 
 <p align="center">
   <em>Desarrollador/aprener a crear un perfil · cali, colombia🌎</em>
 </p>
+<h1 align="center">¡Hola! 👋 Soy Camilo</h1>
 
+<p align="center">
+  <em>Aprendiendo programación · Cali, Colombia 🇨🇴</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Correo-D14836?style=flat&logo=gmail&logoColor=white" alt="Correo" /></a>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+¡Hola! Soy **Camilo**, de **Cali, Colombia** 🇨🇴. Estoy dando mis primeros pasos en la **programación** y ahora mismo estoy aprendiendo a crear mi perfil de GitHub. Me gusta aprender algo nuevo cada día y convertirlo en proyectos reales.
+
+## 🎯 Mis objetivos
+
+**A corto plazo**
+- 📚 Aprender los fundamentos de la programación
+- 🛠️ Terminar mi perfil de GitHub y publicar mi primer proyecto
+- 🤝 Empezar a colaborar en proyectos de código abierto
+
+**A mediano plazo**
+- 💼 Conseguir mi primer trabajo o práctica en programación
+- 🏗️ Construir un portafolio con proyectos reales
+- 📜 Obtener mi primera certificación en programación
+
+**A largo plazo**
+- 🚀 Crecer como profesional y liderar mis propios proyectos de programación
+- 🌍 Trabajar en proyectos con impacto en Colombia
+- 🧠 Compartir lo que aprendo con otras personas que están empezando
+
+## 🛠️ Tecnologías y herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+> 💡 Aquí iré agregando las tecnologías que aprenda.
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🚀 Proyectos destacados
+
+Pronto publicaré mis primeros proyectos aquí. ¡Mantente atento! 🌱
+
+## 📬 Contáctame
+
+¿Quieres colaborar o simplemente conversar sobre programación? Escríbeme a [mi correo](mailto:TU_CORREO).
+
+<p align="center">
+  <sub>⭐ Si algo de mi trabajo te sirvió, ¡regálame una estrella!</sub>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
