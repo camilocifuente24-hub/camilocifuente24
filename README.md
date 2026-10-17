@@ -1,5 +1,5 @@
 # camilocifuente24
-soy estudiante de la universisdad aunar cali y me dejaron esta tarea
+soy estudiante de la universisdad aunar cali y me dejaron esta tarea como parte de un trabajo y mi objetivo es aprender
 <h1 align="center">¡Hola! 👋 Soy TU_NOMBRE</h1>
 
 <p align="center">
