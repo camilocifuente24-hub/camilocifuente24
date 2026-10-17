@@ -1,9 +1,9 @@
 # camilocifuente24
 soy estudiante de la universisdad aunar cali y me dejaron esta tarea como parte de un trabajo y mi objetivo es aprender
-<h1 align="center">¡Hola! 👋 Soy TU_NOMBRE</h1>
+<h1 align="center">¡Hola! 👋 Soy camilo cifuente</h1>
 
 <p align="center">
-  <em>Desarrollador/a TU_ROL · TU_CIUDAD, TU_PAÍS 🌎</em>
+  <em>Desarrollador/a TU_ROL · cali, colombia🌎</em>
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@ soy estudiante de la universisdad aunar cali y me dejaron esta tarea como parte 
 
 ## 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en **NOMBRE_DEL_PROYECTO**
-- 🌱 Estoy aprendiendo **TECNOLOGÍA_1** y **TECNOLOGÍA_2**
+- 🔭 Actualmente trabajo en **github**
+- 🌱 Estoy aprendiendo **programacion_1** y **TECNOLOGÍA_2**
 - 🤝 Busco colaborar en **TIPO_DE_PROYECTOS**
-- 💬 Pregúntame sobre **TEMA_1**, **TEMA_2**
-- ⚡ Dato curioso: **ALGO_DIVERTIDO_SOBRE_TI**
+- 💬 Pregúntame sobre **github**, ****
+- ⚡ Dato curioso: **me gusta aprender**
 
 ## 🛠️ Tecnologías y herramientas
 
