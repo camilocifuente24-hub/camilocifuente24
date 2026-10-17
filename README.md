@@ -3,7 +3,7 @@ soy estudiante de la universisdad aunar cali y me dejaron esta tarea como parte 
 <h1 align="center">¡Hola! 👋 Soy camilo cifuente</h1>
 
 <p align="center">
-  <em>Desarrollador/a TU_ROL · cali, colombia🌎</em>
+  <em>Desarrollador/aprener a crear un perfil · cali, colombia🌎</em>
 </p>
 
 <p align="center">
